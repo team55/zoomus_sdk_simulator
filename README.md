@@ -1,1 +1,1 @@
-# zoomus_sdk_simulator
+# zoomus sdk for iOS Simulator
